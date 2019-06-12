@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:4C6E8C61
+NODE:I LEVEL:0 LINE:1 "D:\cvavreval\inc\mega32.h"
+NODE:I LEVEL:0 LINE:2 "D:\cvavreval\inc\alcd.h"
+NODE:I LEVEL:0 LINE:3 "D:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:4 "D:\cvavreval\inc\stdio.h"
+NODE:V LEVEL:0 LINE:6 "x -> R4,R5"
+NODE:V LEVEL:0 LINE:6 "y -> R6,R7"
+NODE:V LEVEL:0 LINE:6 "z -> R8,R9"
+NODE:V LEVEL:0 LINE:7 "buf -> RAM:????"
+NODE:F LEVEL:0 LINE:11 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:27 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:43 "ext_int2_isr(void)"
+NODE:F LEVEL:0 LINE:60 "main(void)"

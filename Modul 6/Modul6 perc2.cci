@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:4C955468
+NODE:I LEVEL:0 LINE:24 "D:\cvavreval\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "D:\cvavreval\inc\stdio.h"
+NODE:I LEVEL:0 LINE:26 "D:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:31 "D:\cvavreval\inc\alcd.h"
+NODE:V LEVEL:0 LINE:32 "count -> R5"
+NODE:V LEVEL:0 LINE:32 "data -> R4"
+NODE:V LEVEL:0 LINE:32 "pwm -> R7"
+NODE:V LEVEL:0 LINE:33 "buff -> RAM:????"
+NODE:F LEVEL:0 LINE:35 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:53 "main(void)"
